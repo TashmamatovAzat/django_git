@@ -3,4 +3,4 @@ venv/
 
 **/__pycache__/
 
-db.sglite3
+db.sqlite3
